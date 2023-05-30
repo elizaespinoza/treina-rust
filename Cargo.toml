@@ -1,0 +1,4 @@
+[package]
+name = "treina-rust"
+version = "0.0.0"
+authors = ["Elizabeth Espinoza <elizaespinoza@ufmg.br>"]
