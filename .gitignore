@@ -1,5 +1,8 @@
-sintaxe-basica/constante
-sintaxe-basica/escopo
-sintaxe-basica/funcoes
-sintaxe-basica/structype
-struct-controle/condicional
+target/debug/.cargo-lock
+target/.rustc_info.json
+target/debug/treina-rust
+.gitignore
+Cargo.lock
+.vscode/tasks.json
+.gitignore
+target/*
