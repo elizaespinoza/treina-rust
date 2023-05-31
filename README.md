@@ -1,6 +1,6 @@
 # Rust exercises for Alura's Rust course
 
-- This repo contains some exercises adapted from Alura's Rust courses [Rust: a linguagem de programação performática e segura](https://www.alura.com.br/curso-online-rust-linguagem-programacao-performatica-segura)_ and _[Rust: aprenda mais sobre tipos](https://www.alura.com.br/curso-online-rust-aprenda-sobre-tipos).
+- This repo contains some exercises adapted from Alura's Rust courses _[Rust: a linguagem de programação performática e segura](https://www.alura.com.br/curso-online-rust-linguagem-programacao-performatica-segura)_ and _[Rust: aprenda mais sobre tipos](https://www.alura.com.br/curso-online-rust-aprenda-sobre-tipos)_.
 
 ---
 
