@@ -38,7 +38,7 @@ fn main() {
 
     println!("Saldo: {}", conta.saldo);
 
-    println!("Sacando 50.5 ...");
+    println!("Sacando 50.5");
 
     conta.sacar(50.5);
 
